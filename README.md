@@ -29,7 +29,7 @@ file1_name.my_function()
 ```
 
 ## Author
-Thauny Vermelho
+Thuany Vermelho
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
