@@ -1,5 +1,5 @@
 # Descrição do Desafio :
-Criar um esquema de modelo de bancos de dados conceitual para uma oficina. Abaixo a narrtaiva que deve ser seguida.
+Criar um esquema de modelo de bancos de dados conceitual para uma oficina. 
 
 ## Narrativa:
 - Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica
