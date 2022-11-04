@@ -8,3 +8,4 @@ Projetos criados durante o bootcamp de ciências de dados da DIO. Navegue atrav�
 #### 5 - Projeto Conceitual de banco de dados - Oficina Mecânica
 #### 6 - Projeto Lógico de banco de dados - Ecommerce
 #### 7 - Projeto Lógico de banco de dados - Oficina Mecânica
+#### 8 - Projeto de Boas práticas com Amazon DynamoDB 
